@@ -24,3 +24,5 @@ mcs -out:TestFibonacci.exe TestFibonacci.cs
 
 # The command to execute the .exe file -
 mono TestFibonacci.exe
+
+(In prompt you will be asked to enter any number after entering number press enter to view the results. )
