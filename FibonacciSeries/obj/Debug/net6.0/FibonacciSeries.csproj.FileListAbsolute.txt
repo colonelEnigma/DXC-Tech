@@ -1,0 +1,12 @@
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.deps.json
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.dll
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/bin/Debug/net6.0/ref/FibonacciSeries.dll
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.pdb
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.csproj.AssemblyReference.cache
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.AssemblyInfoInputs.cache
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.AssemblyInfo.cs
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.csproj.CoreCompileInputs.cache
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.dll
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/ref/FibonacciSeries.dll
+/home/praveen/Documents/interview/DXC-Tech/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.pdb
